@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^elantattva.com$
+RewriteRule ^(.*)$ http://www.elantattva.com/ [R=301]
+
+#DirectoryIndex start1.php
+DirectoryIndex home.php
+# disable directory browsing
+Options All -Indexes
+# Directives for custom error pages
+#ErrorDocument 400 http://www.fitied.com/error400.php
+#rorDocument 403 http://www.fitied.com/error403.php
+#ErrorDocument 404 http://www.fitied.com/error404.php
+#ErrorDocument 500 http://www.fitied.com/error500.phpAddType application/x-java-jnlp-file jnlp
+AddType application/x-java-jnlp-file jnlp

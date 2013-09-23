@@ -1,0 +1,111 @@
+/* #763A7A : violate;  #50d07d : green ; #f1684e : orange ;  #0288AD : blue ;
+#00B1B0; :  different blue
+#F37332; :  different orange ;
+#ffd500   yellow
+*/
+@import url(http://fonts.googleapis.com/css?family=Corben);
+@import url(http://fonts.googleapis.com/css?family=Nobile);
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(http://fonts.googleapis.com/css?family=Proxima+Nova);
+@import url(http://fonts.googleapis.com/css?family=proxima-nova);
+
+.teamheading{
+	padding-top: 50px;
+}
+.teamheading h1{
+	font-family: Gabriola ;
+	font-size: 250%;
+	font-weight: 100 ;
+	color: #00B1B0 ;
+	text-align: center;
+}
+.teamheading p{
+	font-size: 125%;
+	color: #763A7A ;
+	text-align: center;
+}
+
+.profiles{
+	margin-top:20px;
+}
+
+.profiles img {
+	width: 200px;
+	height: 200px;
+	border-style: solid;
+	border-radius: 5px;
+	cursor: hand ;
+}
+
+/* For profiles images */
+
+figure {
+  display: block;
+  position: relative;
+  float: left;
+  overflow: hidden;
+  margin: 0 20px 20px 0;
+}
+figcaption {
+	width:100%;
+  position: absolute;
+  background: black;
+  background: rgba(0, 177, 176, 0.9);
+  color: #333;
+  padding: 10px 20px;
+  opacity: 0;
+  -webkit-transition: all 0.6s ease;
+  -moz-transition:    all 0.6s ease;
+  -o-transition:      all 0.6s ease;
+}
+figcaption p{
+	color: #f1f1f1;
+}
+figcaption a{
+	color: #f1f1f1;
+} 
+figure:hover figcaption {
+  opacity: 1;
+}
+figure:before {
+  content: "?";
+  position: absolute;
+  font-weight: 800;
+  background: black;
+  background: rgba(255,255,255,0.75);
+  text-shadow: 0 0 5px white;
+  color: black;
+  width: 24px;
+  height: 24px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius:    12px;
+  border-radius:         12px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 24px;
+  -moz-transition: all 0.6s ease;
+  opacity: 0.75;
+}
+figure:hover:before {
+  opacity: 0;
+}
+
+.cap-left:before {  bottom: 10px; left: 10px; }
+.cap-left figcaption { bottom: 0; left: -30%; }
+.cap-left:hover figcaption { left: 0; }
+
+.cap-right:before { bottom: 10px; right: 10px; }
+.cap-right figcaption { bottom: 0; right: -30%; }
+.cap-right:hover figcaption { right: 0; }
+
+.cap-top:before { top: 10px; left: 10px; }
+.cap-top figcaption { left: 0; top: -30%; }
+.cap-top:hover figcaption { top: 0; }
+
+.cap-bot:before { bottom: 10px; left: 10px; }
+.cap-bot figcaption { left: 0; bottom: -30%;}
+.cap-bot:hover figcaption { bottom: 0; }
+

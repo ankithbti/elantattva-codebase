@@ -1,0 +1,218 @@
+/*
+#############################
+##License Details
+#############################
+## If you are seeing this file, you are bound to follow the following temrs and conditions:
+## No part of this source code may be disclosed or transferred outside Arrivu Systems or the current interested parties.
+## No part of this publication may be reproduced or transmitted in any form or by any means, including photography and recording, without the written permission of Arrivu Systems, an application for which should be addressed to the organisation.
+## Such written permission must also be obtained before any part of this publication is stored in a retrieval system of any nature.
+#############################
+## Copyright ©Arrivu Systems (2012). All Rights Reserved.
+#############################
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Corben);
+@import url(http://fonts.googleapis.com/css?family=Nobile);
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+/* #763A7A : violate;  #50d07d : green ; #f1684e : orange ;  #0288AD : blue ;
+#00B1B0; :  different blue
+#F37332; :  different orange ;
+#ffd500   yellow
+*/
+
+body{
+	margin:0px;
+	padding:0px;
+	font-family: "Droid Sans", "Josefin Sans",  Nobile ;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 18px;
+	color: #333;
+	background-image:url('../resources/images/background_things.png') ;
+	background-repeat:repeat-x;
+	background-color:#fff;
+	background-attachment:fixed;
+	background-position: bottom;
+}
+
+.coverup{
+	background-color: rgba(255,255,255,0) ;
+	height:100%;
+}
+
+.header{
+	margin-top: 10px;
+}
+
+.brand{
+	margin-left:5px;
+	color: #0288AD;
+	font-family: "Droid Serif", "Dancing Script", Corben ;
+	font-size: 35px;
+	position: relative;
+	top: 5px;
+}
+
+.well {
+background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.2) 30%, rgba(3, 68, 165, 0.2) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(255, 255, 255, 0.2)), color-stop(65%, rgba(3, 68, 165, 0.2)));
+/*background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.2) 30%, rgba(3, 68, 165, 0.2) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(255, 255, 255, 0.2)), color-stop(100%, rgba(3, 68, 165, 0.2)));*/
+}
+
+.well-announce1 {
+min-height: 20px;
+padding: 19px;
+margin-bottom: 20px;
+background-color: #F7F7F7;
+border: 0px solid #763A7A ;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+border-top: 5px solid #0288AD ;
+}
+
+.well{
+	background-color: rgba(255,255,255,0);
+	border-style: none;
+	border-radius: none;
+	border-top-style: solid;
+	border-top-color: #00B1B0 ;
+	border-top-width: 3px;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	padding : 0px;
+
+}
+
+
+
+.well  h1{
+	font-family: Nobile, "Droid Sans", "Josefin Sans";
+	font-size: 23px;
+	text-align: left;
+	color: #0288AD;
+}
+
+.well p{
+	margin-top:10px;
+	/*font-family: "Droid Sans", "Josefin Sans", Nobile   ;
+	font-size: 20px;
+	line-height: 30px;
+	color: #777;*/
+	font-family: verdana, tahoma, "Droid Sans", "Josefin Sans", Nobile;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+color: #333;
+	text-align: justify;
+}
+
+.well-announce  h1{
+	font-family: "Dancing Script" ;
+	font-size: 40px;
+	color: #333;
+}
+
+.well-announce p{
+	margin-top:10px;
+	font-family: Nobile, "Droid Sans", "Josefin Sans"  ;
+	font-size: 20px;
+	line-height: 30px;
+	color: #777;
+	text-align: justify;
+}
+
+
+
+.share_buttons .facebook {
+display: block;
+position: relative;
+top:5px;
+width: 79px;
+height: 27px;
+float: right;
+margin-left: 20px;
+background: transparent url('../resources/images/social_share_buttons.png') no-repeat 0 0;
+}
+
+.share_buttons .twitter {
+display: block;
+position: relative;
+top:5px;
+width: 79px;
+height: 27px;
+float: right;
+margin-left: 10px;
+background: transparent url('../resources/images/social_share_buttons.png') no-repeat 0 -54px;
+}
+
+.share_buttons .google {
+display: block;
+width: 79px;
+height: 27px;
+float: left;
+margin-left: 20px;
+background: transparent url('../resources/images/social_share_buttons.png') no-repeat 0 -108px;
+}
+
+
+.topborder{
+	height: 1px;
+	background-color: #50d07d ;
+}
+
+
+
+.well-subscribe {
+background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.2) 30%, rgba(3, 68, 165, 0.2) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(255, 255, 255, 0.2)), color-stop(100%, rgba(3, 68, 165, 0.2)));
+padding:10px;
+}
+.well-subscribe1 {
+min-height: 20px;
+padding: 19px;
+margin-bottom: 20px;
+background-color: #F7F7F7;
+border: 0px solid #763A7A ;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+border-top: 5px solid #00B1B0 ;
+}
+
+.well-subscribe{
+	background-color: rgba(255,255,255,0);
+	border-style: none;
+	border-radius: none;
+	border-top-style: solid;
+	border-top-color: #0288AD;
+	border-top-width: 3px;
+}
+
+.well-subscribe h3 {
+color: #006DA3;
+font-family:   Nobile, "Droid Sans", "Josefin Sans";
+border-bottom: 1px solid #EEE;
+margin-bottom: 8px;
+padding-bottom: 2px;
+font-size: 20px;
+line-height: 30px;
+}
+
+/*.footer {
+border-top: 1px solid #CCC;
+padding: 3em 0em;
+background-color: #333;
+color: #CCC;
+}*/

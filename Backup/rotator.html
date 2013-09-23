@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>A Standard Roundabout</title>
+		
+		
+		<style>
+			##rotatorCarousal{
+				margin-top: 0px;
+			}
+			#rotatorCarousal ul {
+				list-style: none;
+				padding: 0;
+				margin: 0 auto;
+				width: 600px;
+				height: 300px;
+
+			}
+			#rotatorCarousal li {
+				height: 300px;
+				width: 600px;
+				
+				text-align: center;
+				cursor: pointer;
+			}
+				
+			#rotatorCarousal li.roundabout-in-focus {
+					cursor: default;
+			}
+
+			#rotatorCarousal li span {
+				display: block;
+				padding: 2px;
+			}
+
+			#rotatorCarousal li span img{
+				display: block;
+				padding: 4px;
+				width: 592px;
+				height: 292px;
+				/*background-color: #0288AD;*/
+			}
+
+			
+		</style>
+	</head>
+	<body>
+		
+	<div id='rotatorCarousal'>
+		<ul>
+			
+			
+			
+			<li><span><img src='happy.jpg' /></span></li>
+			<li><span><img src='happy1.jpg' /></span></li>
+			<li><span><img src='life.jpg' /></span></li>
+			<li><span><img src='happy1.jpg' /></span></li>
+			<li><span><img src='happy.jpg' /></span></li>
+			<li><span><img src='happy1.jpg' /></span></li>
+			
+			<!-- <li><span><img src='http://placehold.it/500x298/f1f1f1&text=Block 5' /></span></li> -->
+		</ul>
+	</div>
+		
+		
+		<script src="resources/js/jquery.js"></script>
+		<script src="resources/js/jquery.roundabout2.js"></script>
+		<script>
+			$(document).ready(function() {
+				$('#rotatorCarousal ul').roundabout();
+			});
+		</script>
+	</body>
+</html>

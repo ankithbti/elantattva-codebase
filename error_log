@@ -1,0 +1,45 @@
+[05-Feb-2013 14:02:32] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home3/fitiedc1/public_html/elantattva/UpcomingEvents.php on line 5
+[05-Feb-2013 14:02:42] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home3/fitiedc1/public_html/elantattva/UpcomingEvents.php on line 5
+[05-Feb-2013 14:04:21] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home3/fitiedc1/public_html/elantattva/UpcomingEvents.php on line 5
+[05-Feb-2013 14:05:10] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home3/fitiedc1/public_html/elantattva/UpcomingEvents.php on line 5
+[06-Feb-2013 19:00:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home3/fitiedc1/public_html/elantattva/calendar_start.php on line 78
+[06-Feb-2013 12:02:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home3/fitiedc1/public_html/elantattva/UpcomingEvents.php on line 20
+[06-Feb-2013 19:02:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home3/fitiedc1/public_html/elantattva/calendar_start.php on line 78
+[06-Feb-2013 12:02:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home3/fitiedc1/public_html/elantattva/UpcomingEvents.php on line 20
+[06-Feb-2013 19:02:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home3/fitiedc1/public_html/elantattva/calendar_start.php on line 78
+[06-Feb-2013 19:03:58] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home3/fitiedc1/public_html/elantattva/calendar_start.php on line 78
+[06-Feb-2013 12:36:05] PHP Parse error:  syntax error, unexpected '=' in /home3/fitiedc1/public_html/elantattva/events.php on line 19
+[06-Feb-2013 12:36:59] PHP Parse error:  syntax error, unexpected '=' in /home3/fitiedc1/public_html/elantattva/events.php on line 19
+[06-Feb-2013 12:39:21] PHP Parse error:  syntax error, unexpected '=' in /home3/fitiedc1/public_html/elantattva/events.php on line 19
+[06-Feb-2013 13:03:45] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home3/fitiedc1/public_html/elantattva/events.php on line 24
+[16-Feb-2013 03:34:27] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 38
+[16-Feb-2013 03:34:52] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 38
+[16-Feb-2013 03:37:22] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 38
+[16-Feb-2013 03:38:13] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 41
+[16-Feb-2013 03:38:18] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 41
+[16-Feb-2013 03:38:43] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 41
+[16-Feb-2013 03:39:28] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 41
+[16-Feb-2013 03:39:48] PHP Parse error:  syntax error, unexpected '[' in /home3/fitiedc1/public_html/elantattva/getDetailsForEvents.php on line 41
+[16-Feb-2013 13:22:40] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 26
+[16-Feb-2013 13:23:05] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 26
+[16-Feb-2013 13:23:18] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 26
+[16-Feb-2013 13:25:05] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 26
+[16-Feb-2013 13:26:05] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 27
+[16-Feb-2013 13:27:21] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 30
+[16-Feb-2013 13:28:44] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/login.php on line 30
+[16-Feb-2013 07:41:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'fitiedc1'@'localhost' (using password: NO) in /home3/fitiedc1/public_html/elantattva/home.php on line 57
+[16-Feb-2013 07:41:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 57
+[16-Feb-2013 07:41:23] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/home.php on line 57
+[16-Feb-2013 07:41:23] PHP Warning:  mysql_affected_rows() [<a href='function.mysql-affected-rows'>function.mysql-affected-rows</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 58
+[16-Feb-2013 07:42:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'fitiedc1'@'localhost' (using password: NO) in /home3/fitiedc1/public_html/elantattva/home.php on line 58
+[16-Feb-2013 07:42:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 58
+[16-Feb-2013 07:42:07] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/home.php on line 58
+[16-Feb-2013 07:42:07] PHP Warning:  mysql_affected_rows() [<a href='function.mysql-affected-rows'>function.mysql-affected-rows</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:43:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'fitiedc1'@'localhost' (using password: NO) in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:43:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:43:37] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:43:37] PHP Warning:  mysql_affected_rows() [<a href='function.mysql-affected-rows'>function.mysql-affected-rows</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 60
+[16-Feb-2013 07:45:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'fitiedc1'@'localhost' (using password: NO) in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:45:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:45:06] PHP Notice:  Query fails. Contact us to report the issue. in /home3/fitiedc1/public_html/elantattva/home.php on line 59
+[16-Feb-2013 07:45:06] PHP Warning:  mysql_affected_rows() [<a href='function.mysql-affected-rows'>function.mysql-affected-rows</a>]: A link to the server could not be established in /home3/fitiedc1/public_html/elantattva/home.php on line 60

@@ -1,0 +1,4 @@
+HNEWS="<strong>Upcoming Event:</strong> &nbsp;&nbsp;<b>&ldquo;Life Recharged&rdquo;</b> on Sun, Oct 13<sup>th</sup> 2013, 9:15 AM to 6 PM @ Times of India, MG Road, Bangalore, Call: +91 99722 97259 , +91 96208 10505"
+HLINK="#"
+HNEWS="<strong>Upcoming Event:</strong> &nbsp;&nbsp;<b>&ldquo;Par Excellence&rdquo;</b> on Sun, Nov 3<sup>rd</sup> 2013, 9:15 AM to 6 PM @ Times of India, MG Road, Bangalore, Call: +91 99722 97259 , +91 96208 10505"
+HLINK="#"

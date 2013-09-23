@@ -1,0 +1,50 @@
+Changelog
+
+1.0.0 - April 23, 2012
+- Initial release
+
+1.0.1 - April 26, 2012
+- Fixed a bug in the reveal animation
+- Tweaked the default Twitter format
+
+1.1 - May 14, 2012
+- Display URLs, user mentions and hashtags within tweets as links. Can be turned off by setting 'parseTwitterLinks' to false.
+- HTML within the reveal animation now works, with one caveat -- nested HTML elements will break the animation.
+- Prevent feed caching by setting 'noCache' to true. Note that this will have a performance impact.
+- Quickly display your latest Pinterest pins and Tumblr posts using six new settings: 'pinterest', 'pinterestFormat', 'pinterestCount', 'tumblr', 'tumblrFormat', 'tumblrCount'
+- Fixed incorrect link for Twitter %link% variable
+- Correction in documentation
+
+1.1.1 - May 25, 2012
+- Fixed parsing error with Facebook feeds that caused the newsticker to break under certain conditions.
+
+1.1.2 - May 30, 2012
+- Fixed excerpt trimming for Facebook feed items.
+
+1.1.3 - June 13, 2012
+- Fixed a bug with the way news items are displayed when controls are turned off
+- Fixed a bug when multiple links present in a tweet
+- Fixed a bug when two newstickers of the same type of animation are used on the same page
+
+1.1.4 - July 9, 2012
+- Fixed a bug related to reveal animation and HTML tags
+
+1.1.5 - July 19, 2012
+- Fixed a bug related to %timeago% variable for Twitter items
+
+1.1.6 - July 26, 2012
+- Fixed a bug where margin between items becomes wider after first scroll through entire list of items
+
+1.1.7 - August 3, 2012
+- Minor CSS change to skin
+- Fixed a bug in scrolling animation when there is only one news item
+
+1.1.8 - August 6, 2012
+- Fixed a bug appearing in edge cases when news ticker wrapper is undefined
+
+1.1.9 - August 28, 2012
+- Added a setting to choose whether parsed links inside Tweets (ie. user mentions and hashtags) should open in a new window or not when clicked
+
+1.1.10 - October 20, 2012
+- Improved skins for easier integration into themes
+- Fixed up a bug occurring in certain situations when pulling items from a Facebook page. 

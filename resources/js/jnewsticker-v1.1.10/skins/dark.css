@@ -1,0 +1,139 @@
+/**
+
+"Corporate Blue"" skin for jQuery newsticker
+ 
+Design & code by Studio 164a
+
+**/ 
+ 
+ 
+.newsticker_wrapper {
+    font: 13px Arial, Helvetica, sans-serif;
+    color: #fff;    
+    border:1px solid #000;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    line-height: 30px;        
+    height: 30px;
+    background-color: #000;
+    background-position: bottom right;
+    background-image: -webkit-gradient(linear, 0% 0%, 100% 0%, from(#000), color-stop(0.5, #464648), to(#000)); 
+    background-image: -webkit-linear-gradient(left, #000, #464648 50%, #000); /* Safari 5.1+, Mobile Safari, Chrome 10+ */
+    background-image: -moz-linear-gradient(left, #000, #464648 50%, #000); /* Firefox 3.6+ */   
+    background-image: -ms-linear-gradient(left, #000, #464648 50%, #000); /* IE 10+ */
+    background-image: -o-linear-gradient(left, #000, #464648 50%, #000); /* Opera 11.10+ */    
+    -webkit-text-size-adjust: none;
+} 
+
+.newsticker_wrapper h4 {
+    color: #fff46f;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 0 14px 0 11px;
+    margin: 0 11px 0 0;
+    font-style: italic;
+    background: transparent url('dark/title_separator.png') no-repeat 100% 6px;
+}
+
+.newsticker a {
+    color: #fff46f;
+}
+
+.newsticker {
+    height: 30px;
+    margin: 0;
+    padding: 0;    
+}
+
+.newsticker li {
+    padding: 0 15px;
+    list-style-type: none;
+    list-style-image: none;
+} 
+
+.newsticker_controls {
+    position: absolute;
+    right: 15px;
+    top: 0;
+    list-style-type: none;
+    list-style-image: none;    
+    background-color: #000;
+    z-index: 30;
+    margin: 0;
+    padding-left: 10px;
+}
+
+.newsticker_controls li {
+    float: left;    
+    height: 30px;
+    background-repeat: no-repeat;
+    background-color: #000;
+    cursor: pointer;
+}
+
+.newsticker_controls .previous,
+.newsticker_controls .next {
+    width: 12px;
+}
+
+.newsticker_controls .pause,
+.newsticker_controls .resume {
+    width: 13px;
+    padding: 0 10px;
+    background-position: center;
+}
+
+.newsticker_controls .pause {
+    background-image: url('dark/pause.png');           
+}
+
+.newsticker_controls .resume {
+    background-image: url('dark/resume.png');       
+}
+
+.newsticker_controls .previous {
+    background-image: url('dark/previous.png');   
+    background-position: left center;
+}
+
+.newsticker_controls .next {
+    background-image: url('dark/next.png');   
+    background-position: right center;
+}
+
+.newsticker_style_reveal .newsticker li {
+    left: 15px !important;
+}
+
+/* Reveal */
+.newsticker_style_reveal .newsticker li {
+    left: 15px !important;
+}
+
+/* Scroll */
+.newsticker_style_scroll .newsticker li {
+    margin-right: 80px;
+    padding: 0;
+}
+
+.newsticker_scroller {
+    margin: 0 10px;
+}
+
+
+
+/*
+THE MARKUP:
+
+<div class="newsticker_wrapper">
+	<h4>The Latest</h4>
+	<ul class="newsticker">
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+	</ul>
+</div>
+*/

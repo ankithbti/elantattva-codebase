@@ -1,0 +1,45 @@
+
+/* #763A7A : violate;  #50d07d : green ; #f1684e : orange ;  #0288AD : blue ;
+#00B1B0; :  different blue
+#F37332; :  different orange ;
+#ffd500   yellow
+*/
+@import url(http://fonts.googleapis.com/css?family=Corben);
+@import url(http://fonts.googleapis.com/css?family=Nobile);
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(http://fonts.googleapis.com/css?family=Proxima+Nova);
+@import url(http://fonts.googleapis.com/css?family=proxima-nova);
+
+.careerimagecontainer{
+	padding-top: 30px;
+	width:100%;
+	margin-bottom: 10px;
+	outline: none ;
+}
+
+.careerimagecontainer img{
+	width: 100%;
+}
+
+.careercontactheader{
+	width:100%;
+	background-color: #0288AD ;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.careercontactheader h1{
+	color: white;
+	text-align: center;
+	font-family: Gabriola ;
+	font-size: 200%;
+	font-weight: 100 ;
+}
+
+.contactform .ufile{
+	margin-top:5px;
+	margin-bottom: 20px;
+}

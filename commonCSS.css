@@ -1,0 +1,849 @@
+@import url(http://fonts.googleapis.com/css?family=Corben);
+    @import url(http://fonts.googleapis.com/css?family=Nobile);
+    @import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+    @import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+    @import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+    @import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+    /* #763A7A : violate;  #50d07d : green ; #f1684e : orange ;  #0288AD : blue ;
+    #00B1B0; :  different blue
+    #F37332; :  different orange ;
+    #ffd500   yellow
+    */
+
+
+    a img { border: 0; }
+    img { vertical-align: middle; }
+
+    .logoImage{      
+      color: #283897;
+    }
+
+    .logoImage img{
+      width:210px;
+      height:210px;
+    }
+    .logoImage span{
+        font-family: "Droid Serif" ;
+        font-size: 25px;
+        line-height: 1;
+        position: relative;
+        top:-10px;
+        
+        left:40px;
+    }
+    .logoImage span strong{
+        font-family: Corben, Nobile, "Droid Serif" ;
+        font-size: 35px;
+        line-height: 1;
+        position: relative;
+        top:0px;
+        color:#333;
+        
+    }
+
+    .clearBoth{
+      clear:both;
+    }
+
+    .jumbotron1 {
+position: relative;
+padding: 10px ;
+color: #fff;
+text-align: center;
+text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+background: #020031;
+background: -moz-linear-gradient(45deg, #020031 0%, #6d3353 100%);
+background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#020031), color-stop(100%,#6d3353));
+background: -webkit-linear-gradient(45deg, #020031 0%,#6d3353 100%);
+background: -o-linear-gradient(45deg, #020031 0%,#6d3353 100%);
+background: -ms-linear-gradient(45deg, #020031 0%,#6d3353 100%);
+background: linear-gradient(45deg, #020031 0%,#6d3353 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#020031', endColorstr='#6d3353',GradientType=1 );
+-webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+-moz-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+}
+
+    .thoughtofday{
+        font-family: "Droid Serif" ;
+        font-size: 20px;
+        line-height: 1;
+        position: relative;
+        top:0px;
+      }
+
+      .thoughtofday span{
+        font-family: Arial ;
+        font-size: 15px;
+        line-height: 1;
+        position: relative;
+        top:2px;
+        color:#f6f6f6;
+        text-align: right;
+        margin-right:30px;
+        margin-top: 5px;
+        padding-bottom: 2px;
+      }
+
+      .well-subscribe h4{
+        font-family: "Dancing Script";
+        font-size: 25px;
+        line-height: 2;
+        position: relative;
+        top:0px;
+      }
+      .styledText p{
+        font-family: "Josefin Sans" ;
+        font-size: 25px;
+        line-height: 1;
+        
+      }
+
+      .moveDown{
+        position: relative;
+        top:0px;
+      }
+
+      .styledText h1{
+        color: #333 ;
+      }
+
+      #messagebox{
+        height:300px;
+        width: 500px;
+      }
+
+      .page-header h1{
+        color: blue ;
+        font-family: "Josefin Sans" ;
+      }
+
+      .subHeading{
+        
+        font-family: "Droid Serif" ;
+        font-size: 30px;
+        line-height: 2;
+
+      }
+
+      #showEvents{
+        font-family: "Droid Serif" ;
+        font-size: 30px;
+        line-height: 2;
+        color: #333 ;
+      }
+
+      #showEvents h3{
+        font-family: "Droid Serif" ;
+        font-size: 30px;
+        line-height: 2;
+        color: #F37332 ;
+      }
+
+      #showEvents h4{
+        font-family: Corben, Nobile, "Droid Serif" ;
+        font-size: 25px;
+        line-height: 2;
+        color: #763A7A ;
+        text-decoration: underline;
+        text-align: center;
+      }
+
+      .form-signin {
+        max-width: 300px;
+        padding: 19px 29px 29px;
+        margin: 0 auto 20px;
+        background-color: #fff;
+        border: 1px solid #e5e5e5;
+        -webkit-border-radius: 5px;
+           -moz-border-radius: 5px;
+                border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+                box-shadow: 0 1px 2px rgba(0,0,0,.05);
+      }
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 10px;
+      }
+      .form-signin input[type="text"],
+      .form-signin input[type="password"] {
+        font-size: 16px;
+        height: auto;
+        margin-bottom: 15px;
+        padding: 7px 9px;
+      }
+
+      #submitForm{
+        padding: 20px;
+        -moz-box-shadow:    3px 3px 5px 6px #333;
+        -webkit-box-shadow: 3px 3px 5px 6px #333;
+        box-shadow:  3px 3px 5px 6px #333;
+        display: none ;
+      }
+
+      #ajaxResult{
+        font-family: "Droid Serif" ;
+        font-size: 15px;
+        line-height: 1;
+        color: #0288AD ;
+      }
+
+      #thought{
+        width:80%;
+        height: 100px;
+      }
+
+#responds {
+margin: 0px;
+padding: 0px;
+list-style: none;
+}
+#responds li {
+  padding: 20px;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+  font-family: "Droid Serif" ;
+  font-size: 15px;
+  line-height: 1;
+  color: #0288AD ;
+  list-style: none;
+  margin: 10px;
+
+}
+
+.del_wrapper {
+float: right;
+position: relative;
+top:-10px;
+}
+
+.gap{
+  position: relative;
+  top:10px;
+}
+
+.programhead2 h2{
+  color: #41A8BF ;
+  font-family: "Josefin Sans";
+}
+
+.programhead3 h2{
+  color: #15A5A6 ;
+  font-family: "Josefin Sans";
+}
+
+.level311 h2{
+  font-family: "Josefin Sans";
+}
+
+.programhead4 h2{
+  color: #41A8BF ;
+  font-family: "Josefin Sans";
+}
+
+.programhead5 h2{
+  color: #15A5A6 ;
+  font-family: "Josefin Sans";
+}
+
+.programhead6 h2{
+  color: #41A8BF ;
+  font-family: "Josefin Sans";
+}
+
+
+
+
+
+.level2 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+  
+}
+.level2 p{
+  
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level2 h4{
+  background-color: #41A8BF ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.level2 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level3 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+}
+.level3 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level3 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level3 h4{
+  background-color: #15A5A6 ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.level4 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+}
+.level4 p{
+  
+  font-size: 20px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level4 h4{
+  background-color: #41A8BF ;
+  padding: 5px;
+  color:#f1f1f1;
+}
+
+.level4 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+
+.level5 {
+ margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+}
+.level5 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level5 > ul li{
+   font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level5 h4{
+  background-color: #15A5A6 ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+
+.level6 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+}
+.level6 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level6 h4{
+  background-color: #41A8BF ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.level6 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+
+.level7 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+}
+.level7 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level7 h4{
+  background-color: #15A5A6 ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.level7 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+
+.level8 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 1px 6px 1px black;
+     -moz-box-shadow: 0 1px 6px 1px black;
+          box-shadow: 0 1px 6px 1px black;
+}
+.level8 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level8 h4{
+  background-color: #41A8BF ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.level8 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level31 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+     -moz-box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 8px 6px -6px black;
+}
+.level31 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level31 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level31 h4{
+  background-color: #1F1426 ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.level311 {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px;
+  padding-top: 60px;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+     -moz-box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 8px 6px -6px black;
+}
+.level311 p{
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level311 > ul li{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  line-height: 1.3;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.level311 h4{
+  background-color: #363F73 ;
+  padding: 5px;
+  color:#f1f1f1;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+}
+
+.gallery{
+  margin-top: 20px;
+}
+
+.fill{
+  background-color: #f1f1f1 ;
+  min-height: 100px;
+}
+
+a.polaroid { -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; display: block; background: #fff; padding: 10px; margin:5px; -moz-box-shadow: #ccc 5px 5px 20px; -webkit-box-shadow: #ccc 5px 5px 20px; margin-bottom:1em; }
+a.polaroid:hover { -moz-box-shadow: #666 5px 5px 20px; -webkit-box-shadow: #666 5px 5px 20px; }
+
+.gallery h2{
+  font-family: "Josefin Sans";
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+
+/* Image Slider */
+
+.loaderbeforeslides{
+  position: absolute;
+  opacity: 1.0 ;
+  left:250px;
+  top:100px;
+  background: url('resources/images/loader_blue.gif') ;  
+  background-color: #gray;
+  background-repeat: no-repeat;
+  min-height: 100px;
+  min-width:100px;
+}
+
+.clearall{
+  clear: both;
+}
+
+#myimageslider{
+  margin-top: 15px;
+}
+
+#myimageslider {
+    position:relative;
+    height:300px
+}
+
+#myimageslider a {
+    float:left;
+    position:absolute;
+    cursor: wait;
+}
+
+#myimageslider a img {
+    border:none;
+    max-width: 600px;
+    max-height: 280px;
+    -moz-box-shadow: 10px 10px 5px #888;
+-webkit-box-shadow: 10px 10px 5px #888;
+box-shadow: 10px 10px 5px #888;
+}
+
+#myimageslider a.showimage {
+    z-index:500
+}
+#myimageslider .mycaption {
+    z-index:600; 
+    background-color:#000; 
+    color:#ffffff; 
+    height:40px; 
+    width:100%; 
+    position:absolute;
+    bottom:0;
+}
+#myimageslider .mycaption .mycontent {
+    margin:5px
+}
+
+#myimageslider .mycaption .mycontent h3 {
+    margin:0;
+    padding:0;
+    color:#1DCCEF;
+}
+
+
+/** Testimonials **/
+.testimonialentityblock{
+  margin-top: 30px;
+}
+
+.testimonialentity{
+  /*-moz-box-shadow:    inset 0 0 5px #000000;
+   -webkit-box-shadow: inset 0 0 5px #000000;
+   box-shadow:         inset 0 0 5px #000000;*/
+   border-style: solid;
+   border-color: #0088cc;
+   border-width: 1px;
+   margin-bottom: 15px;
+}
+
+.testimonialentityhead{
+
+}
+
+.testimonialentityhead .testimonialentitydate {
+  border-width: 1px;
+  padding: 5px;
+  padding-bottom: 3px;
+  background-color: #0088cc;
+  color: #f1f1f1;
+}
+
+.testimonialentityhead .testimonialentitydate p{
+  font-family: "Droid Serif", "Josefin Sans";
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.testimonialentityauthorblock{
+  position: relative; 
+  float:left;
+  padding: 20px;
+  text-align: justify;
+}
+
+.testimonialentityauthorblock h3 {
+  padding-bottom: 10px;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: #333;
+}
+
+.testimonialentityauthorblock .testimonialauthorintro {
+  font-family: Tahoma;
+  font-size: 12px;
+}
+
+.testimonialentitybody{
+  padding: 20px;
+  text-align: justify;
+  font-family: "Josefin Sans";
+  font-size: 17px;
+}
+
+.clearAll{
+  clear: both;
+}
+
+/** Testimonials **/
+
+#heart {
+    position: relative;
+    width: 30px;
+    height: 15px;
+    left:120px;
+    top:10px;
+}
+#heart:before,
+#heart:after {
+    position: absolute;
+    content: "";
+    left: 15px;
+    top: 0;
+    width: 15px;
+    height: 10px;
+    background: #f1f1f1;
+    -moz-border-radius: 15px 15px 0 0;
+    border-radius: 15px 15px 0 0;
+    -webkit-transform: rotate(-45deg);
+       -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+         -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+    -webkit-transform-origin: 0 100%;
+       -moz-transform-origin: 0 100%;
+        -ms-transform-origin: 0 100%;
+         -o-transform-origin: 0 100%;
+            transform-origin: 0 100%;
+}
+#heart:after {
+    left: 0;
+    -webkit-transform: rotate(45deg);
+       -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+         -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+    -webkit-transform-origin: 100% 100%;
+       -moz-transform-origin: 100% 100%;
+        -ms-transform-origin: 100% 100%;
+         -o-transform-origin: 100% 100%;
+            transform-origin :100% 100%;
+}
+
+.coachingregisterpage{
+  padding: 20px;
+  /*border-bottom-style: solid;
+  border-top-style: solid;
+  border-width: 5px;
+  border-color: rgb(40, 56, 151);*/
+  font-family: "Josefin Sans";
+  font-size: 20px;
+  line-height: 1;
+  color:#f1f1f1;
+  /*background-color: rgba(143,191,143,0.2);*/
+  background-image: linear-gradient(to bottom,rgb(20,50,100),rgb(200,200,200));
+}
+
+/*.coachingregisterpage p{
+	color:gray;
+}*/
+
+.closeregisteration{
+  float:right;
+}
+.coachingregisterpage1 h3{
+  font-family: "Josefin Sans";
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.mynote{
+  font-family: "Josefin Sans";
+  font-size: 20px;
+  line-height: 1;
+  padding: 10px;
+}
+
+.coachingregisterpage1 textarea{
+  width:450px;
+  height:200px;
+  font-family: "Josefin Sans";
+  font-size: 20px;
+  line-height: 1;
+  color: gray;
+  padding: 10px;
+}
+
+.registerforooc{
+  margin-top: 50px;
+  min-height: 100px;
+  padding: 10px;
+  width:100%;
+  /*border-style: solid;
+  border-color: #f1f1f1;
+  border-width: 1px;*/
+  border-top-style: solid;
+  border-top-color: #0088cc;
+  border-top-width: 5px;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+
+.registerforooc h2{
+  padding-bottom: 5px;
+  font-family: "Josefin Sans";
+  font-size: 22px;
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: #333;
+}
+
+.registerforooc p{
+  font-family: "Josefin Sans";
+  font-size: 18px;
+}
+
+.bottomsec{
+  background-color: #00B1B0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bottomsec a{
+  padding-bottom: 5px;
+  font-family: "Josefin Sans";
+  font-size: 22px;
+  font-weight: 900;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
+  color: #f1f1f1;
+  padding: 10px;
+}
+
+.registrationh2{
+  padding-bottom: 5px;
+  font-family: "Josefin Sans";
+  font-size: 22px;
+  border-bottom-style: solid;
+  border-width: 1px;
+  border-color: #333;
+}
