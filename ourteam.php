@@ -16,20 +16,7 @@
     	<p>Meet the catalysts behind Elan Tattva</p>
 </div>
 
-<div class="container" align="center">
-
-	<p>
-		<img src='images/team1.png' /><br>
-		<img src='images/team2.png' /><br>
-		<img src='images/team3.png' /><br>
-		<img src='images/team4.png' /><br>
-		<img src='images/team5.png' /><br>
-		<img src='images/team6.png' /><br>
-	</p>
-	<p>
-		<img src='images/team2.png' />
-	</p>
-
+<div class="container">
 
 	<!-- Docs nav
 	================================================== -->
@@ -37,6 +24,8 @@
 	  	<div class="span3 bs-docs-sidebar">
 		    <ul class="nav nav-list bs-docs-sidenav">
 		      <li class="active"><a href="#suresh"><i class="icon-chevron-right"></i> <i class="icon-user"></i> Suresh Sivaraman</a></li>
+		      <li><a href="#archana"><i class="icon-chevron-right"></i> <i class="icon-user"></i> Archana Krishnamurthy</a></li>
+		      <li><a href="#raphael"><i class="icon-chevron-right"></i> <i class="icon-user"></i> Raphael Joseph</a></li>
 		      <li><a href="#kiran"><i class="icon-chevron-right"></i> <i class="icon-user"></i> Kiran Shetty</a></li>
 		      <li><a href="#kabir"><i class="icon-chevron-right"></i> <i class="icon-user"></i> Kabir Ahluwalia</a></li>
 		    </ul>
@@ -49,16 +38,50 @@
 	        ================================================== -->
 	        <section id="suresh">
 	          <div class="page-header">
-	            <h1>Suresh Sivaraman</h1>
+	            <h1>Suresh Sivaraman<span style='font-size: 18px;'> ( Executive Coach &amp; Trainer )</span></h1>
 	          </div>
 	          
-		      <img src="resources/images/suresh_snap.JPG" class="img-rounded img-polaroid" style="margin:10px;width:150px;height:150px;position:relative;float:left;"/>    
-	          <p><strong>Suresh Sivaraman</strong> (Co-Founder of Elan Tattva, Certified NLP trainer [ANLP India] and Certified Advanced Life Coach [ANLP India]).</p>
+		      <img src="images/suresh.png" class="img-rounded img-polaroid" style="margin:10px;width:200px;height:150px;position:relative;float:left;"/>    
+	          <!-- <p><strong>Executive Coach &amp; Trainer</strong></p> -->
+	          <p><strong>&raquo;</strong> Over 16 years of experience in corporate life.</p>
+	          <p><strong>&raquo;</strong> Certified Coach (Neuro Leadership Group, and ANLP India)</p>
+	          <p><strong>&raquo;</strong> Co-Founder of Elan Tattva, which is into personal excellence training &amp; coaching.</p>
+	          <p><strong>&raquo;</strong> MBA (PGSEM) from IIM Bangalore, Class of 2006</p>
+	          <p><strong>&raquo;</strong> Delivery Manager in Wipro Technologies till 2011</p>
+	          <p><strong>&raquo;</strong> Extensive work experience in India and Europe.</p>
+	        </section>
 
-	          <p><strong>Suresh</strong> has done his MBA from IIM Bangalore (PGSEM) and B.Tech from Govt College of Engineering, Trivandrum, University of Kerala. He has worked in the IT industry for nearly 14 yrs, with 7 years in various Management positions in India and Europe. He has handled roles of Delivery Manager, Senior Project Manager, Onsite Manager for large programs in the IT industry.</p>
+	        <!-- 
+	        ================================================== -->
+	        <section id="archana">
+	          <div class="page-header">
+	            <h1>Archana Krishnamurthy<span style='font-size: 18px;'> ( Motivational Speaker &amp; Certified Leadership Coach )</span></h1>
+	          </div>
+	          
+		      <img src="images/archana.png" class="img-rounded img-polaroid" style="margin:10px;width:200px;height:150px;position:relative;float:left;"/>    
+	          <!-- <p><strong>Executive Coach &amp; Trainer</strong></p> -->
+	          <p><strong>&raquo;</strong> Over 22 years of experience in corporate life.</p>
+	          <p><strong>&raquo;</strong> Has been an entrepreneur for over 12 years.</p>
+	          <p><strong>&raquo;</strong> Is certified by Franklin Covey Institute, Australia as Leadership Coach.</p>
+	          <p><strong>&raquo;</strong> Is Founder Director of CorNet PR - which is into Corporate Networking and servicing M&amp;E segment.</p>
+	          <p><strong>&raquo;</strong> Works closely with Governments and Trade & Industry Associations in various senior positions.</p>
+	        </section>
 
-	          <p>His passions include Inter Cultural Management, People and Process Management, Organizational Development, NLP, Transactional Analysis, Life Coaching, Reiki, Meditation, Tai chi, Yoga, New Age Music. He has conducted workshops and sessions in Bangalore on personal empowerment, law of attraction, meditations, one-one coaching.</p>
-	      	
+	        <!-- 
+	        ================================================== -->
+	        <section id="raphael">
+	          <div class="page-header">
+	            <h1>Raphael Joseph<span style='font-size: 18px;'> ( Corporate Trainer, Entrepreneur )</span></h1>
+	          </div>
+	          
+		      <img src="images/raphael.png" class="img-rounded img-polaroid" style="margin:10px;width:200px;height:150px;position:relative;float:left;"/>    
+	          <!-- <p><strong>Executive Coach &amp; Trainer</strong></p> -->
+	          <p><strong>&raquo;</strong> Corporate Trainer in Leadership, Behavioural &amp; Sales with varied industrial experience.</p>
+	          <p><strong>&raquo;</strong> Asst. Team lead in Technicolor India from (Jan 2006 – Oct 2012); was picked as the star performer of gaming unit 2011 – 2012</p>
+	          <p><strong>&raquo;</strong> Guest Lecturer and Mentor for ‘Arena Multimedia’ and ‘Image Multimedia’</p>
+	          <p><strong>&raquo;</strong> Actively partnered with YMCA in organizing youth camps, and drug de-addiction camps.</p>
+	          <p><strong>&raquo;</strong> Organized youth empowerment programs.</p>
+	          <p><strong>&raquo;</strong> Rich philosophical and psychological back ground.</p>
 	        </section>
 
 	        <!--

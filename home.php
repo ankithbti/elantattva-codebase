@@ -3,7 +3,7 @@
 	session_start();
 	$_SESSION['page'] = "HOME" ;
   	include('baseHeader.html');
-  	//require_once('resources/dbconfig.php');
+  	require_once('resources/dbconfig.php');
 ?>
 <body>
 
@@ -22,9 +22,13 @@
 <div class='container'>
 	<div class="row">
 		
-		<div class="span8" align='center'>
-			
+		
+		<div class="span6" align='center'>
+			<div class='logoImage'>
+				<img src='images/logo_new.png'/>
+			</div>
 		</div>
+
 		<div class="span4" align='center'>
 			<!-- <img src='handshake.jpg' style="margin-left:10px;height:210px;width:300px;"> -->
 			<div class="registerforooc">
@@ -35,19 +39,15 @@
 				<div class="bottomsec"><p><a target="_blank" href="resources/Elan Tattva OnetoOne Coaching Brochure.pdf">One One Coaching Overview</a></p></div>
 			</div>
 		</div>
+		<div class="span2">
+			
+		</div>
 	</div>
 </div>
 </div>
 <div class='container'>
 	<div class="row">
 
-		<div class="span5" align='center'>
-			<!-- <br/><span class="oneononecoachingregister"><a href="javascript:void()"><img src="../resources/images/oneonecoachingribbon.jpg" /></a></span> -->
-			<div class='logoImage'>
-				<img src='resources/images/logoET1.jpg'/><br/><span><strong>E</strong>lan <strong>T</strong>attva</span>
-			</div>
-			<!-- <a href="UpcomingEvents.php"><div class="label label-success" style="padding:7px; position:fixed;top:120px;left:0px;">Life Recharged on 8th Sep</div></a> -->
-		</div><!-- span3 -->
 		<div class="span6">
 
 
@@ -163,7 +163,14 @@
 				<p>Check out our <a href="gallery.php">Gallery</a></p>
 			</div> -->
 		</div><!-- span9 -->
-		<div class='span3'>
+		<div class='span6'>
+			<div style="width:90%; position: relative ;">
+				<div class='subtagline'>
+					<h4>Experts in <span class='label label-info' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px;'>Coaching</span>, 
+					<span class='label label-warning' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px;'>Training</span> and 
+					<span class='label label-success' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px; margin-top:3px;'>Motivational Speaking</span></h4>
+				</div>
+			</div>
 			
 		</div>
 		<div class='clearBoth'></div>

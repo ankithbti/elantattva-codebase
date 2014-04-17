@@ -20,8 +20,8 @@
     }
 
     .logoImage img{
-      width:210px;
-      height:210px;
+      width:300px;
+      height:220px;
     }
     .logoImage span{
         font-family: "Droid Serif" ;
@@ -587,6 +587,15 @@ a.polaroid:hover { -moz-box-shadow: #666 5px 5px 20px; -webkit-box-shadow: #666 
 
 .clearall{
   clear: both;
+}
+
+.subtagline{
+  position: relative;
+  margin-top:25%;
+  text-transform: uppercase;
+  font-family: "Josefin Sans";
+  font-size: 22px;
+  color: rgb(40, 56, 151);
 }
 
 #myimageslider{

@@ -12,7 +12,7 @@
 ?>
 
 <div class="jumbotron">
-    <h1>FOUNDERS</h1>
+    <h1>Our Team</h1>
     	<p>Meet the catalysts behind Elan Tattva</p>
 </div>
 
@@ -39,7 +39,7 @@
 	            <h1>Suresh Sivaraman</h1>
 	          </div>
 	          
-		      <img src="resources/images/suresh_snap.JPG" class="img-rounded img-polaroid" style="margin:10px;width:150px;height:150px;position:relative;float:left;"/>    
+		      <img src="images/suresh.png" class="img-rounded img-polaroid" style="margin:10px;width:200px;height:150px;position:relative;float:left;"/>    
 	          <p><strong>Suresh Sivaraman</strong> (Co-Founder of Elan Tattva, Certified NLP trainer [ANLP India] and Certified Advanced Life Coach [ANLP India]).</p>
 
 	          <p><strong>Suresh</strong> has done his MBA from IIM Bangalore (PGSEM) and B.Tech from Govt College of Engineering, Trivandrum, University of Kerala. He has worked in the IT industry for nearly 14 yrs, with 7 years in various Management positions in India and Europe. He has handled roles of Delivery Manager, Senior Project Manager, Onsite Manager for large programs in the IT industry.</p>

@@ -42,7 +42,7 @@
 	            <h1>About Us</h1>
 	          </div>
 	          <p>Elan Tattva literally stands for the principles of enthusiasm, confidence, panache and style.<br/>
-				The company is co-founded by two individuals (Suresh Sivaraman and Kiran Shetty) with extensive prior Corporate/Industry experience.<br/>
+				The company is co-founded by a team with extensive prior Corporate/Industry experience.<br/>
 				Located in Bangalore, we offer a wide variety of programs and workshops that creatively collaborates the rich traditional ideas of the East with the modern outlook of the West, with the goal of Promoting health, happiness, excellence and well-being through the mind-body connection.
 			  </p>
 	        </section>
