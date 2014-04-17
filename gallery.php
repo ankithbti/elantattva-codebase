@@ -13,6 +13,51 @@
 ?>
 
 <div class='container gallery'>
+
+	<h2>Emotional Intelligence for Success @Times of India, Bangalore( Jan 2014 )</h2><!-- 647 x 479 , 240 x 177-->
+	<div class="row">
+		<div class="span3">
+			<a id="image28" class="polaroid" href="#pic-28" rel="lightbox" > <img src="resources/images/gallery/emoInt4_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image26" class="polaroid" href="#pic-26" rel="lightbox" > <img src="resources/images/gallery/emoInt2_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image27" class="polaroid" href="#pic-27" rel="lightbox" > <img src="resources/images/gallery/emoInt3_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image25" class="polaroid" href="#pic-25" rel="lightbox"> <img src="resources/images/gallery/emoInt1_s.jpg" alt="image" /> </a>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="span3">
+			<a id="image29" class="polaroid" href="#pic-29" rel="lightbox"> <img src="resources/images/gallery/emoInt5_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image30" class="polaroid" href="#pic-30" rel="lightbox" > <img src="resources/images/gallery/emoInt6_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image31" class="polaroid" href="#pic-31" rel="lightbox" > <img src="resources/images/gallery/emoInt7_s.jpg" alt="image" /> </a>
+		</div>
+	</div>
+
+
+	<h2>Inspiring Goals Workshop @Times of India, Bangalore( Jan 2014 )</h2><!-- 647 x 479 , 240 x 177-->
+	<div class="row">
+		<div class="span3">
+			<a id="image21" class="polaroid" href="#pic-21" rel="lightbox"> <img src="resources/images/gallery/goal1_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image22" class="polaroid" href="#pic-22" rel="lightbox" > <img src="resources/images/gallery/goal2_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image23" class="polaroid" href="#pic-23" rel="lightbox" > <img src="resources/images/gallery/goal3_s.jpg" alt="image" /> </a>
+		</div>
+		<div class="span3">
+			<a id="image24" class="polaroid" href="#pic-24" rel="lightbox" > <img src="resources/images/gallery/goal4_s.jpg" alt="image" /> </a>
+		</div>
+	</div>
 	
 	<h2>NMKRV College, Jayanagar, Bangalore Workshops( Aug 2013 )</h2>
 	<div class="row">
@@ -180,6 +225,39 @@
 		</div>
 		<div id="pic-20">
 		    <img src="resources/images/gallery/jay6.jpg" alt="image" />
+		</div>
+		<div id="pic-21">
+		    <img src="resources/images/gallery/goal1.jpg" alt="image" />
+		</div>
+		<div id="pic-22">
+		    <img src="resources/images/gallery/goal2.jpg" alt="image" />
+		</div>
+		<div id="pic-23">
+		    <img src="resources/images/gallery/goal3.jpg" alt="image" />
+		</div>
+		<div id="pic-24">
+		    <img src="resources/images/gallery/goal4.jpg" alt="image" />
+		</div>
+		<div id="pic-25">
+		    <img src="resources/images/gallery/emoInt1.jpg" alt="image" />
+		</div>
+		<div id="pic-26">
+		    <img src="resources/images/gallery/emoInt2.jpg" alt="image" />
+		</div>
+		<div id="pic-27">
+		    <img src="resources/images/gallery/emoInt3.jpg" alt="image" />
+		</div>
+		<div id="pic-28">
+		    <img src="resources/images/gallery/emoInt4.jpg" alt="image" />
+		</div>
+		<div id="pic-29">
+		    <img src="resources/images/gallery/emoInt5.jpg" alt="image" />
+		</div>
+		<div id="pic-30">
+		    <img src="resources/images/gallery/emoInt6.jpg" alt="image" />
+		</div>
+		<div id="pic-31">
+		    <img src="resources/images/gallery/emoInt7.jpg" alt="image" />
 		</div>
 
 

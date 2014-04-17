@@ -61,11 +61,11 @@
           <?php
                 if($_SESSION['page'] == "FOUNDERS"){
           ?>
-            <li class="active"><a href="founder.php"><i class="icon-comment icon-white"></i> Founders</a></li>
+            <li class="active"><a href="ourteam.php"><i class="icon-comment icon-white"></i> Team</a></li>
           <?php
             }else{
           ?>
-            <li><a href="founder.php"><i class="icon-comment icon-white"></i> Founders</a></li>
+            <li><a href="ourteam.php"><i class="icon-comment icon-white"></i> Team</a></li>
           <?php
               }
           ?>

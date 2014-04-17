@@ -3,7 +3,7 @@
 	session_start();
 	$_SESSION['page'] = "HOME" ;
   	include('baseHeader.html');
-  	require_once('resources/dbconfig.php');
+  	//require_once('resources/dbconfig.php');
 ?>
 <body>
 
@@ -18,10 +18,30 @@
 	    include "$hm/hhnt.php";
 ?>
 
+<div class='bottomborderooc'>
+<div class='container'>
+	<div class="row">
+		
+		<div class="span8" align='center'>
+			
+		</div>
+		<div class="span4" align='center'>
+			<!-- <img src='handshake.jpg' style="margin-left:10px;height:210px;width:300px;"> -->
+			<div class="registerforooc">
+				<h2>One on One Coaching</h2>
+				<p>Join for a better tomorrow.</p>
+				<!-- <p class="oneononecoachingregister"><a href="javascript:void();">Click to Register</a></p> -->
+				<div class="bottomsec"><p><a href="registerooc.php">Click to Register</a></p></div>
+				<div class="bottomsec"><p><a target="_blank" href="resources/Elan Tattva OnetoOne Coaching Brochure.pdf">One One Coaching Overview</a></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
 <div class='container'>
 	<div class="row">
 
-		<div class="span3" align='center'>
+		<div class="span5" align='center'>
 			<!-- <br/><span class="oneononecoachingregister"><a href="javascript:void()"><img src="../resources/images/oneonecoachingribbon.jpg" /></a></span> -->
 			<div class='logoImage'>
 				<img src='resources/images/logoET1.jpg'/><br/><span><strong>E</strong>lan <strong>T</strong>attva</span>
@@ -42,39 +62,79 @@
 				</div>
 
 				<a href="javascript:void(0)" class="showimage">
-					<img class="img-rounded" src="resources/images/gallery/dun3.jpg" alt="Flowing Rock" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/emoInt4.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
+				</a>
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/emoInt2.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
+				</a>
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/emoInt3.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
+				</a>
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/emoInt1.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
+				</a>
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/emoInt5.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
+				</a>
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/emoInt6.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
+				</a>
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/emoInt7.jpg" alt="Emotional Intelligence for Success workshop" alt="" title="Emotional Intelligence for Success workshop" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/dun5.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/goal1.jpg" alt="Goal planning session" alt="" title="Goal planning session" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/dun1.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/goal2.jpg" alt="Goal session" alt="" title="Goal planning session" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/dun4.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/goal3.jpg" alt="Goal strategy session" alt="" title="Goal planning session" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/dun2.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/goal4.jpg" alt="Goal planning" alt="" title="Goal planning session" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/bang1.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/dun3.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/bang2.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/dun5.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/bang3.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/dun1.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/bang4.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/dun4.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
+				</a>
+
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/dun2.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
+				</a>
+
+				
+
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/bang1.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
+				</a>
+
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/bang2.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
+				</a>
+
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/bang3.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
+				</a>
+
+				<a href="javascript:void(0)">
+					<img class="img-rounded" src="resources/images/gallery/bang4.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
@@ -82,12 +142,14 @@
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/bang6.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/bang6.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
 				</a>
 
 				<a href="javascript:void(0)">
-					<img class="img-rounded" src="resources/images/gallery/bang7.jpg" alt="Grass Blades" alt="" title="" width="100%" height="70%" rel=""/>
+					<img class="img-rounded" src="resources/images/gallery/bang7.jpg" alt="" alt="" title="" width="100%" height="70%" rel=""/>
 				</a>
+
+				
 
 				<!-- <div class="mycaption"><div class="mycontent"></div></div> -->
 
@@ -102,12 +164,7 @@
 			</div> -->
 		</div><!-- span9 -->
 		<div class='span3'>
-			<div class="registerforooc">
-				<h2>One on One Coaching</h2>
-				<p>Join for a better tomorrow.</p>
-				<!-- <p class="oneononecoachingregister"><a href="javascript:void();">Click to Register</a></p> -->
-				<div class="bottomsec"><p><a href="registerooc.php">Click to Register</a></p></div>
-			</div>
+			
 		</div>
 		<div class='clearBoth'></div>
 	</div><!--row-->
