@@ -24,10 +24,9 @@
 	  	<div class="span3 bs-docs-sidebar">
 		    <ul class="nav nav-list bs-docs-sidenav">
 		      <li class="active"><a href="#aboutus"><i class="icon-chevron-right"></i> <i class="icon-screenshot"></i> About Us</a></li>
-		      <li><a href="#principles"><i class="icon-chevron-right"></i> <i class="icon-screenshot"></i> Our Principles</a></li>
-		      <li><a href="#mission"><i class="icon-chevron-right"></i> <i class="icon-flag"></i> Our Mission</a></li>
-		      <li><a href="#motive"><i class="icon-chevron-right"></i> <i class="icon-magnet"></i> Our Motive</a></li>
-		      <li><a href="#offerings"><i class="icon-chevron-right"></i> <i class="icon-road"></i> Our Offerings</a></li>
+		      <li><a href="#vision"><i class="icon-chevron-right"></i> <i class="icon-screenshot"></i> Our Vision</a></li>
+		      <li><a href="#principles"><i class="icon-chevron-right"></i> <i class="icon-flag"></i> Core Principles</a></li>
+		      <li><a href="#services"><i class="icon-chevron-right"></i> <i class="icon-magnet"></i> Our Services</a></li>
 		      <!-- <li><a href="#founder"><i class="icon-chevron-right"></i> <i class="icon-briefcase"></i> Founder</a></li> -->
 		    </ul>
 	  	</div>
@@ -41,9 +40,10 @@
 	          <div class="page-header">
 	            <h1>About Us</h1>
 	          </div>
-	          <p>Elan Tattva literally stands for the principles of enthusiasm, confidence, panache and style.<br/>
-				The company is co-founded by a team with extensive prior Corporate/Industry experience.<br/>
-				Located in Bangalore, we offer a wide variety of programs and workshops that creatively collaborates the rich traditional ideas of the East with the modern outlook of the West, with the goal of Promoting health, happiness, excellence and well-being through the mind-body connection.
+	          <p>Elan Tattva literally stands for the principles of enthusiasm, confidence, panache and style.</p>
+			  <p>Our primary focus is in the area of Leadership coaching and training.</p>
+			  <p>We have a distinguished team of Coaches and Trainers with extensive Corporate/Industry experience.</p>
+			  <p>We are located in Bangalore.</p>
 			  </p>
 	        </section>
 
@@ -51,43 +51,52 @@
 	  		
 	        <!-- 
 	        ================================================== -->
+	        <section id="vision">
+	          <div class="page-header">
+	            <h1>Our Vision</h1>
+	          </div>
+	          <p>Our Vision is to enable organizations and individuals to achieve their true potential by nurturing fine leadership and professional excellence at all levels.</p>
+	        </section>
+
+	        <!--
+	        ================================================== -->
 	        <section id="principles">
 	          <div class="page-header">
-	            <h1>Our Principles</h1>
+	            <h1>Core Principles</h1>
 	          </div>
-	          <p>Elan Tattva literally stands for the principles of enthusiasm, confidence, panache and style.</p>
-	        </section>
-
-	        <!--
-	        ================================================== -->
-	        <section id="mission">
-	          <div class="page-header">
-	            <h1>Our Mission</h1>
-	          </div>
-	          <p>The pursuit of excellence demystified. We welcome you to join us in this amazing exploration of the pure essence of panache and verve, so vital to the success of your goals and dreams.</p>
-
-	        </section>
-
-
-	        <!--
-	        ================================================== -->
-	        <section id="motive">
-	          <div class="page-header">
-	            <h1>Our Motive</h1>
-	          </div>
-	          <p>
-	          	We integrate tenets and frameworks from Yoga, psychology, NLP, Mindfulness, Martial Arts and other disciplines in the design of our portfolio of programs, workshops and products. Our offerings are suitable for individuals having the desire to nurture their own health, pursue excellence in any sector of life, be it professional or personal, restore balance and create greater joy and fulfilment in their lives.
-	          </p>
+	          <p><strong>&raquo;</strong> Enable people to leverage strengths &amp; minimize weaknesses.</p>
+	          <p><strong>&raquo;</strong> Develop &amp; foster high performing team culture.</p>
+	          <p><strong>&raquo;</strong> Support employees to effectively align with shared organizational vision &amp; goals.</p>
+	          <p><strong>&raquo;</strong> Superior Workplace Culture &amp; Employee Engagement :</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> Nurturing a culture of positive acknowledgment in teams.</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> Increase Motivation for Self-Driven Learning &amp; Development.</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> Value Addition as a core tenet at individual &amp; team levels.</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> Excellent Work-Life Balance.</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> Driving Performance with Social &amp; Emotional Intelligence.</p>
 
 	        </section>
 
+
 	        <!--
 	        ================================================== -->
-	        <section id="offerings">
+	        <section id="services">
 	          <div class="page-header">
-	            <h1>Our Offerings</h1>
+	            <h1>Our Services</h1>
 	          </div>
-	          <p>The areas covered in our programs and workshops include: Wellness &amp; Health Coaching, Stress management, One-One coaching, meditation, Goal setting, Personal Excellence &amp; Performance Management.</p>
+	          <p><strong>&raquo;</strong> Training &amp; Coaching Services - aimed at multiple levels of Organizations &amp; Institutions.</p>
+	          <p><strong>&raquo;</strong> We conduct programs for Corporates, Educational Institutions, NGOs.</p>
+	          <p><strong>&raquo;</strong> We also conduct open workshops for general public.</p>
+	          <p><strong>&raquo;</strong> Training &amp; Coaching Services for Corporate Organizations :</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> We offer Programs for :</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#8211;</strong> New Recruits (0-1 yr exp)</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#8211;</strong> Executives/Professionals (1-6 yrs exp &amp; beyond)</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#8211;</strong> Middle Management (7-15 yrs exp)</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#8211;</strong> Senior Management (15+ yrs exp)</p>
+	          
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> To deliver their personal best &amp; contribute to Organization&#8216;s success.</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> We undertake both Leadership &amp; soft skills training.</p>
+	          <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&#186;</strong> All courses are customized to suit client requirements.</p>
+
 	        </section>
 
 	        <!--

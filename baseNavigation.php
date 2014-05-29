@@ -96,255 +96,67 @@
               }
           ?>
             <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-              <li class="dropdown-submenu"><a href="programs_new.php#achieversToolkit" tabindex="-1"><i class="icon-gift icon-white"></i> Achiever&lsquo;s Toolkit</a>
+              <li class="dropdown-submenu"><a href="programs_new.php#programsforjtms" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Junior to Mid Level Staff</a>
                 <ul class="dropdown-menu">
-                  <li><a href="programs_new.php#at_goalsetting"><i class="icon-gift icon-white"></i> Effective Goal Setting 101</a></li>
+                  <li><a href="programs_new.php#at_pa101"><i class="icon-gift icon-white"></i> Power Achiever 101</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#at_martialyogaforwinners"><i class="icon-gift icon-white"></i> Martial Yoga for Winners</a></li>
+                  <li><a href="programs_new.php#at_ig101"><i class="icon-gift icon-white"></i> Inspiring Goals 101</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#at_spearheadplanning"><i class="icon-gift icon-white"></i> Spearhead Planning for Key Goals in Life</a></li>
+                  <li><a href="programs_new.php#at_raw"><i class="icon-gift icon-white"></i> Recharge &amp; Win</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#at_mindprogramming"><i class="icon-gift icon-white"></i> Mind Programming 101 for High Impact Goal Pursuit</a></li>
+                  <li><a href="programs_new.php#at_easi101"><i class="icon-gift icon-white"></i> Emotional &amp; Social Intelligence 101</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_tm"><i class="icon-gift icon-white"></i> Time Mastery</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_bai"><i class="icon-gift icon-white"></i> Belief &amp; Influence</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_beabl"><i class="icon-gift icon-white"></i> Business Etiquette &amp; Body Language</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_dy"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
                 </ul>
               </li>
               <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforcorporate" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Corporates</a>
+              <li class="dropdown-submenu"><a href="programs_new.php#programsformm" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Middle Management</a>
                 <ul class="dropdown-menu">
-                  <li><a href="programs_new.php#pfc_liferecharged"><i class="icon-gift icon-white"></i> Life Recharged</a></li>
+                  <li><a href="programs_new.php#at_pa201"><i class="icon-gift icon-white"></i> Power Achiever 201</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#pfc_parexcellence"><i class="icon-gift icon-white"></i> Par Excellence</a></li>
+                  <li><a href="programs_new.php#at_ig101401s"><i class="icon-gift icon-white"></i> Inspiring Goals 101-401 series</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#pfc_yogaforwinners"><i class="icon-gift icon-white"></i> Martial Yoga for Winners</a></li>
+                  <li><a href="programs_new.php#at_raw2"><i class="icon-gift icon-white"></i> Recharge &amp; Win</a></li>
                   <li class="divider"></li>
-                  <li class="dropdown-submenu"><a href="#" tabindex="-2"><i class="icon-gift icon-white"></i> The Elan Tattva Wellness Exclusive</a>
-
-                      <ul class="dropdown-menu">
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfc_wellnessex_gfy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Fit Yoga</a>
-                            <ul class="dropdown-menu">
-                              <li><a href="programs_new.php#pfc_wellnessex_dy"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfc_wellnessex_gy"><i class="icon-gift icon-white"></i> General Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfc_wellnessex_yfwl"><i class="icon-gift icon-white"></i> Yoga for Weight Loss</a></li>
-                            </ul>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfc_wellnessex_gwy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Well Yoga</a>
-                            <ul class="dropdown-menu">
-                              <li><a href="programs_new.php#pfc_wellnessex_yfhb"><i class="icon-gift icon-white"></i> Yoga for Healthy Back</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfc_wellnessex_yfhj"><i class="icon-gift icon-white"></i> Yoga for Healthy Joints</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfc_wellnessex_yfhd"><i class="icon-gift icon-white"></i> Yoga for Healthy Digestion</a></li>
-                            </ul>
-                        </li>
-                      </ul>
-
-                  </li>
+                  <li><a href="programs_new.php#at_easi101401s"><i class="icon-gift icon-white"></i> Emotional &amp; Social Intelligence 101-401 series</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#pfc_oneonecoaching"><i class="icon-gift icon-white"></i> One-One Coaching</a></li>
+                  <li><a href="programs_new.php#at_tm2"><i class="icon-gift icon-white"></i> Time Mastery</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_bai2"><i class="icon-gift icon-white"></i> Belief &amp; Influence</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_dy2"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#at_oooc"><i class="icon-gift icon-white"></i> Executive/Leadership One-on-One Coaching</a></li>
                 </ul>
               </li>
               <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforyouth" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Youth</a>
+
+              <li class="dropdown-submenu"><a href="programs_new.php#ows" tabindex="-1"><i class="icon-gift icon-white"></i> Open Workshops</a>
                 <ul class="dropdown-menu">
-                  <li><a href="programs_new.php#pfy_liferecharged"><i class="icon-gift icon-white"></i>  Life Recharged</a></li>
+                  <li><a href="programs_new.php#ows_pa101"><i class="icon-gift icon-white"></i> Power Achiever 101</a></li>
                   <li class="divider"></li>
-                  <li><a href="programs_new.php#pfy_parexcellence"><i class="icon-gift icon-white"></i>  Par Excellence</a></li>
+                  <li><a href="programs_new.php#ows_ig101"><i class="icon-gift icon-white"></i> Inspiring Goals 101</a></li>
                   <li class="divider"></li>
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfy_wellnessex" tabindex="-2"><i class="icon-gift icon-white"></i> The Elan Tattva Wellness Exclusive</a>
-
-                      <ul class="dropdown-menu">
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfy_wellnessex_gfy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Fit Yoga</a>
-                            <ul class="dropdown-menu">
-                              <li><a href="programs_new.php#pfy_wellnessex_gy"><i class="icon-gift icon-white"></i> General Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfy_wellnessex_cm"><i class="icon-gift icon-white"></i> Cyclic Meditatio</a></li>
-                            </ul>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfy_wellnessex_gwy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Well Yoga</a>
-                            <ul class="dropdown-menu">
-                              <li><a href="programs_new.php#pfy_wellnessex_yfwl"><i class="icon-gift icon-white"></i> Yoga for Weight Loss</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfy_wellnessex_yfhb"><i class="icon-gift icon-white"></i> Yoga for Healthy Back</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfy_wellnessex_yfhj"><i class="icon-gift icon-white"></i> Yoga for Healthy Joints</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfy_wellnessex_yfhd"><i class="icon-gift icon-white"></i> Yoga for Healthy Digestion</a></li>
-                            </ul>
-                        </li>
-                      </ul>
-
-                  </li>
+                  <li><a href="programs_new.php#ows_raw"><i class="icon-gift icon-white"></i> Recharge &amp; Win</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#ows_easi101"><i class="icon-gift icon-white"></i> Emotional &amp; Social Intelligence 101</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#ows_tm"><i class="icon-gift icon-white"></i> Time Mastery</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#ows_bai"><i class="icon-gift icon-white"></i> Belief &amp; Influence</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#ows_beabl"><i class="icon-gift icon-white"></i> Business Etiquette &amp; Body Language</a></li>
+                  <li class="divider"></li>
+                  <li><a href="programs_new.php#ows_dy"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
                 </ul>
               </li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforngos" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for NGOs</a>
-                <ul class="dropdown-menu">
-                  <li><a href="programs_new.php#pfn_liferecharged"><i class="icon-gift icon-white"></i>  Life Recharged</a></li>
-                  <li class="divider"></li>
-                  <li><a href="programs_new.php#pfn_parexcellence"><i class="icon-gift icon-white"></i>  Par Excellence</a></li>
-                  <li class="divider"></li>
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfn_wellnessex" tabindex="-2"><i class="icon-gift icon-white"></i> The Elan Tattva Wellness Exclusive</a>
 
-                      <ul class="dropdown-menu">
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfn_wellnessex_gfy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Fit Yoga</a>
-                            <ul class="dropdown-menu">
-                              <li><a href="programs_new.php#pfn_wellnessex_dy"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfn_wellnessex_gy"><i class="icon-gift icon-white"></i> General Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfn_wellnessex_mw"><i class="icon-gift icon-white"></i> Monsoon Wellnes</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfn_wellnessex_cm"><i class="icon-gift icon-white"></i> Cyclic Meditatio</a></li>
-                            </ul>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfn_wellnessex_gwy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Well Yoga</a>
-                            <ul class="dropdown-menu">
-                              <li><a href="programs_new.php#pfn_wellnessex_yfwl"><i class="icon-gift icon-white"></i> Yoga for Weight Loss</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfn_wellnessex_yfhb"><i class="icon-gift icon-white"></i> Yoga for Healthy Back</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfn_wellnessex_yfhj"><i class="icon-gift icon-white"></i> Yoga for Healthy Joints</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfn_wellnessex_yfhd"><i class="icon-gift icon-white"></i> Yoga for Healthy Digestion</a></li>
-                            </ul>
-                        </li>
-                      </ul>
-
-                  </li>
-                </ul>
-              </li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforkids" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Kids</a>
-                <ul class="dropdown-menu">
-                  <li><a href="programs_new.php#pfk_happyyoga"><i class="icon-gift icon-white"></i> Happy Yoga for Kids</a></li>
-                </ul>
-              </li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforall" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for All</a>
-                <ul class="dropdown-menu">
-                  <li><a href="programs_new.php#pfa_liferecharged"><i class="icon-gift icon-white"></i>  Life Recharged</a></li>
-                  <li class="divider"></li>
-                  <li><a href="programs_new.php#pfa_parexcellence"><i class="icon-gift icon-white"></i>  Par Excellence</a></li>
-                  <li class="divider"></li>
-                  <li><a href="programs_new.php#pfa_yogaforwinners"><i class="icon-gift icon-white"></i> Martial Yoga for Winners</a></li>
-                  <li class="divider"></li>
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfa_wellnessex" tabindex="-2"><i class="icon-gift icon-white"></i> The Elan Tattva Wellness Exclusive</a>
-
-                      <ul class="dropdown-menu dropup">
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfa_wellnessex_gfy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Fit Yoga</a>
-                            <ul class="dropdown-menu dropup">
-                              <li><a href="programs_new.php#pfa_wellnessex_dy"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfa_wellnessex_gy"><i class="icon-gift icon-white"></i> General Yoga</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfa_wellnessex_mw"><i class="icon-gift icon-white"></i> Monsoon Wellnes</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfa_wellnessex_cm"><i class="icon-gift icon-white"></i> Cyclic Meditatio</a></li>
-                            </ul>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="dropdown-submenu"><a href="programs_new.php#pfa_wellnessex_gwy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Well Yoga</a>
-                            <ul class="dropdown-menu dropup">
-                              <li><a href="programs_new.php#pfa_wellnessex_yfwl"><i class="icon-gift icon-white"></i> Yoga for Weight Loss</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfa_wellnessex_yfhb"><i class="icon-gift icon-white"></i> Yoga for Healthy Back</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfa_wellnessex_yfhj"><i class="icon-gift icon-white"></i> Yoga for Healthy Joints</a></li>
-                              <li class="divider"></li>
-                              <li><a href="programs_new.php#pfa_wellnessex_yfhd"><i class="icon-gift icon-white"></i> Yoga for Healthy Digestion</a></li>
-                            </ul>
-                        </li>
-                      </ul>
-
-                  </li>
-                  <li class="divider"></li>
-                  <li><a href="programs_new.php#pfa_oneonecoaching"><i class="icon-gift icon-white"></i> One-One Coaching</a></li>
-                </ul>
-              </li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforschool" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Schools and Colleges</a>
-                <ul class="dropdown-menu dropup">
-                  <li><a href="programs_new.php#pfs_parexcellence"><i class="icon-gift icon-white"></i>  Par Excellence</a></li>
-                  <li class="divider"></li>
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfs_wellnessex" tabindex="-2"><i class="icon-gift icon-white"></i> The Elan Tattva Wellness Exclusive</a>
-
-                      <ul class="dropdown-menu">
-                        <li><a href="programs_new.php#pfs_wellnessex_cm"><i class="icon-gift icon-white"></i> Cyclic Meditatio</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfs_wellnessex_hyfk"><i class="icon-gift icon-white"></i> Happy Yoga for Kids</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfs_wellnessex_yfmc"><i class="icon-gift icon-white"></i> Yoga for Memory, Concentration</a>
-                        </li>
-                      </ul>
-
-                  </li>
-                </ul>
-              </li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforhotels" tabindex="-1"><i class="icon-gift icon-white"></i> Programs for Resorts, Spas, Hotels</a>
-                <ul class="dropdown-menu dropup">
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfh_wellnessex" tabindex="-2"><i class="icon-gift icon-white"></i> The Elan Tattva Wellness Exclusive</a>
-
-                      <ul class="dropdown-menu">
-                        <li><a href="programs_new.php#pfh_wellnessex_gys"><i class="icon-gift icon-white"></i> General Yoga sequence (60mins)</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_my"><i class="icon-gift icon-white"></i> Martial Yoga (60 mins)</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_sn"><i class="icon-gift icon-white"></i> Surya Namaskar (60 mins)</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_p"><i class="icon-gift icon-white"></i> Pranayama (60 mins)</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_yn"><i class="icon-gift icon-white"></i> Yoga Nidra (60 mins)</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_cm"><i class="icon-gift icon-white"></i> Cyclic Meditation (60 mins)</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_hyfk"><i class="icon-gift icon-white"></i> Happy Yoga for kids</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_gy"><i class="icon-gift icon-white"></i> Gentle Yoga (60 mins)</a>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfh_wellnessex_dy"><i class="icon-gift icon-white"></i> Desktop Yoga (60 mins)</a>
-                        </li>
-                      </ul>
-
-                  </li>
-                </ul>
-              </li>
-              <li class="divider"></li>
-              <li class="dropdown-submenu"><a href="programs_new.php#programsforyogaportfolio" tabindex="-1"><i class="icon-gift icon-white"></i>   Yoga Portfolio</a>
-                <ul class="dropdown-menu">
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfyp_wellnessex_gfy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Fit Yoga</a>
-                    <ul class="dropdown-menu dropup">
-                      <li><a href="programs_new.php#pfyp_wellnessex_dy"><i class="icon-gift icon-white"></i> Desktop Yoga</a></li>
-                      <li class="divider"></li>
-                      <li><a href="programs_new.php#pfyp_wellnessex_mw"><i class="icon-gift icon-white"></i> Monsoon Wellnes</a></li>
-                      <li class="divider"></li>
-                      <li><a href="programs_new.php#pfyp_wellnessex_cm"><i class="icon-gift icon-white"></i> Cyclic Meditatio</a></li>
-                      <li class="divider"></li>
-                      <li><a href="programs_new.php#pfyp_wellnessex_ky"><i class="icon-gift icon-white"></i> Kids Yoga</a></li>
-                      <li class="divider"></li>
-                      <li><a href="programs_new.php#pfyp_wellnessex_gy"><i class="icon-gift icon-white"></i> General Yoga</a></li>
-                    </ul>
-                  </li>
-                  <li class="divider"></li>
-                  <li class="dropdown-submenu"><a href="programs_new.php#pfyp_wellnessex_gwy" tabindex="-3"><i class="icon-gift icon-white"></i> Get Well Yoga</a>
-                      <ul class="dropdown-menu dropup">
-                        <li><a href="programs_new.php#pfyp_wellnessex_yfhb"><i class="icon-gift icon-white"></i> Yoga for Healthy Back</a></li>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfyp_wellnessex_yfhj"><i class="icon-gift icon-white"></i> Yoga for Healthy Joints</a></li>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfyp_wellnessex_yfhd"><i class="icon-gift icon-white"></i> Yoga for Healthy Digestion</a></li>
-                        <li class="divider"></li>
-                        <li><a href="programs_new.php#pfyp_wellnessex_yfwl"><i class="icon-gift icon-white"></i> Yoga for Weight Loss</a></li>
-                      </ul>
-                  </li>
-                </ul>
-              </li>
             </ul>
           </li>
 

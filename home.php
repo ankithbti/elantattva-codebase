@@ -25,7 +25,7 @@
 		
 		<div class="span6" align='center'>
 			<div class='logoImage'>
-				<img src='images/logo_new.png'/>
+				<img src='images/elantattva_logo.png'/>
 			</div>
 		</div>
 
@@ -47,6 +47,17 @@
 </div>
 <div class='container'>
 	<div class="row">
+
+		<div class='span6' align='center'>
+			<div style="width:90%; position: relative ;">
+				<div class='subtagline'>
+					<h4>Experts in <span class='label label-info' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px;'>Coaching</span>, 
+					<span class='label label-warning' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px;'>Training</span> and 
+					<span class='label label-success' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px; margin-top:3px;'>Motivational Speaking</span></h4>
+				</div>
+			</div>
+			
+		</div>
 
 		<div class="span6">
 
@@ -162,17 +173,8 @@
 				<h4>Image Slider will appear here. We are working on it.</h4>
 				<p>Check out our <a href="gallery.php">Gallery</a></p>
 			</div> -->
-		</div><!-- span9 -->
-		<div class='span6'>
-			<div style="width:90%; position: relative ;">
-				<div class='subtagline'>
-					<h4>Experts in <span class='label label-info' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px;'>Coaching</span>, 
-					<span class='label label-warning' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px;'>Training</span> and 
-					<span class='label label-success' style='font-size: 17.5px; line-height: 20px; padding-bottom: 5px; margin-top:3px;'>Motivational Speaking</span></h4>
-				</div>
-			</div>
-			
-		</div>
+		</div><!-- span6 -->
+		
 		<div class='clearBoth'></div>
 	</div><!--row-->
 </div><!-- container -->
@@ -198,7 +200,7 @@
 			<!--&#8220; Go confidently in the direction of your Dreams. Live the life you've imagined! &#8221;<br/>-->
 			 &#8220;&nbsp;&nbsp;<?php echo $thought ; //&#8220; ?>&nbsp;&nbsp;&#8221;<br/>
 			<!-- <span class='pull-right'><i>&#126; By Henry David Thoreau &#126;</i></span> -->
-			<span class='pull-right'><i>&#126; By <?php echo $whom ; ?> &#126;</i></span>
+			<span class='pull-right'><i>&#126; <?php echo $whom ; ?> &#126;</i></span>
 			<div class='clearBoth'></div>
 		</div>
 	</div>

@@ -77,6 +77,7 @@
 		      <img src="images/raphael.png" class="img-rounded img-polaroid" style="margin:10px;width:200px;height:150px;position:relative;float:left;"/>    
 	          <!-- <p><strong>Executive Coach &amp; Trainer</strong></p> -->
 	          <p><strong>&raquo;</strong> Corporate Trainer in Leadership, Behavioural &amp; Sales with varied industrial experience.</p>
+	          <p><strong>&raquo;</strong> Organizes open workshops with Times of India group.</p>
 	          <p><strong>&raquo;</strong> Asst. Team lead in Technicolor India from (Jan 2006 – Oct 2012); was picked as the star performer of gaming unit 2011 – 2012</p>
 	          <p><strong>&raquo;</strong> Guest Lecturer and Mentor for ‘Arena Multimedia’ and ‘Image Multimedia’</p>
 	          <p><strong>&raquo;</strong> Actively partnered with YMCA in organizing youth camps, and drug de-addiction camps.</p>
