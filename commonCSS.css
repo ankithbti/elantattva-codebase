@@ -4,12 +4,17 @@
     @import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
     @import url(http://fonts.googleapis.com/css?family=Droid+Serif);
     @import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+    @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
     /* #763A7A : violate;  #50d07d : green ; #f1684e : orange ;  #0288AD : blue ;
     #00B1B0; :  different blue
     #F37332; :  different orange ;
     #ffd500   yellow
     */
+
+    body{
+      font-family: "Open Sans" ;
+    }
 
 
     a img { border: 0; }
@@ -24,7 +29,7 @@
       height:220px;
     }
     .logoImage span{
-        font-family: "Droid Serif" ;
+        font-family: "Open Sans", "Droid Serif" ;
         font-size: 25px;
         line-height: 1;
         position: relative;
@@ -33,7 +38,7 @@
         left:40px;
     }
     .logoImage span strong{
-        font-family: Corben, Nobile, "Droid Serif" ;
+        font-family: "Open Sans", Corben, Nobile, "Droid Serif" ;
         font-size: 35px;
         line-height: 1;
         position: relative;
@@ -66,7 +71,7 @@ box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
 }
 
     .thoughtofday{
-        font-family: "Droid Serif" ;
+        font-family: "Open Sans", "Droid Serif" ;
         font-size: 20px;
         line-height: 1;
         position: relative;
@@ -74,7 +79,7 @@ box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
       }
 
       .thoughtofday span{
-        font-family: Arial ;
+        font-family: "Open Sans", Arial ;
         font-size: 15px;
         line-height: 1;
         position: relative;
@@ -87,22 +92,22 @@ box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
       }
 
       .well-subscribe h4{
-        font-family: "Dancing Script";
+        font-family: "Open Sans", "Dancing Script";
         font-size: 25px;
         line-height: 2;
         position: relative;
         top:0px;
       }
       .styledText p{
-        font-family: "Josefin Sans" ;
-        font-size: 25px;
+        font-family: "Open Sans", "Josefin Sans" ;
+        font-size: 18px;
         line-height: 1;
         
       }
 
       .moveDown{
         position: relative;
-        top:0px;
+        top: 50px;
       }
 
       .styledText h1{
@@ -116,33 +121,37 @@ box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
 
       .page-header h1{
         color: blue ;
-        font-family: "Josefin Sans" ;
+        font-family: "Open Sans", "Josefin Sans" ;
+        font-size: 25px;
+      }
+
+      .page-header span{
+        color: #0088cc;
       }
 
       .subHeading{
         
-        font-family: "Droid Serif" ;
+        font-family: "Open Sans", "Droid Serif" ;
         font-size: 30px;
         line-height: 2;
-
       }
 
       #showEvents{
-        font-family: "Droid Serif" ;
+        font-family: "Open Sans", "Droid Serif" ;
         font-size: 30px;
         line-height: 2;
         color: #333 ;
       }
 
       #showEvents h3{
-        font-family: "Droid Serif" ;
+        font-family: "Open Sans", "Droid Serif" ;
         font-size: 30px;
         line-height: 2;
         color: #F37332 ;
       }
 
       #showEvents h4{
-        font-family: Corben, Nobile, "Droid Serif" ;
+        font-family: "Open Sans", Corben, Nobile, "Droid Serif" ;
         font-size: 25px;
         line-height: 2;
         color: #763A7A ;
@@ -184,7 +193,7 @@ box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
       }
 
       #ajaxResult{
-        font-family: "Droid Serif" ;
+        font-family: "Open Sans", "Droid Serif" ;
         font-size: 15px;
         line-height: 1;
         color: #0288AD ;
@@ -205,7 +214,7 @@ list-style: none;
   -moz-box-shadow:    inset 0 0 10px #000000;
    -webkit-box-shadow: inset 0 0 10px #000000;
    box-shadow:         inset 0 0 10px #000000;
-  font-family: "Droid Serif" ;
+  font-family: "Open Sans", "Droid Serif" ;
   font-size: 15px;
   line-height: 1;
   color: #0288AD ;
@@ -227,31 +236,31 @@ top:-10px;
 
 .programhead2 h2{
   color: #41A8BF ;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
 }
 
 .programhead3 h2{
   color: #15A5A6 ;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
 }
 
 .level311 h2{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
 }
 
 .programhead4 h2{
   color: #41A8BF ;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
 }
 
 .programhead5 h2{
   color: #15A5A6 ;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
 }
 
 .programhead6 h2{
   color: #41A8BF ;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
 }
 
 
@@ -280,12 +289,12 @@ top:-10px;
   background-color: #41A8BF ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
 .level2 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -309,7 +318,7 @@ top:-10px;
 }
 
 .level3 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -320,7 +329,7 @@ top:-10px;
   background-color: #15A5A6 ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
@@ -348,7 +357,7 @@ top:-10px;
 }
 
 .level4 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -373,7 +382,7 @@ top:-10px;
 }
 
 .level5 > ul li{
-   font-family: "Josefin Sans";
+   font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -384,7 +393,7 @@ top:-10px;
   background-color: #15A5A6 ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
@@ -409,12 +418,12 @@ top:-10px;
   background-color: #41A8BF ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
 .level6 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -442,12 +451,12 @@ top:-10px;
   background-color: #15A5A6 ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
 .level7 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -475,12 +484,12 @@ top:-10px;
   background-color: #41A8BF ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
 .level8 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -504,7 +513,7 @@ top:-10px;
 }
 
 .level31 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -515,7 +524,7 @@ top:-10px;
   background-color: #1F1426 ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
@@ -536,7 +545,7 @@ top:-10px;
 }
 
 .level311 > ul li{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
   line-height: 1.3;
   margin-left: 10px;
@@ -547,7 +556,7 @@ top:-10px;
   background-color: #363F73 ;
   padding: 5px;
   color:#f1f1f1;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
 }
 
@@ -564,7 +573,8 @@ a.polaroid { -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s
 a.polaroid:hover { -moz-box-shadow: #666 5px 5px 20px; -webkit-box-shadow: #666 5px 5px 20px; }
 
 .gallery h2{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
+  font-size: 20px;
   border-bottom: 1px solid #eeeeee;
   padding-bottom: 10px;
   margin-bottom: 15px;
@@ -593,7 +603,7 @@ a.polaroid:hover { -moz-box-shadow: #666 5px 5px 20px; -webkit-box-shadow: #666 
   position: relative;
   margin-top:25%;
   text-transform: uppercase;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 22px;
   color: rgb(40, 56, 151);
 }
@@ -673,7 +683,7 @@ box-shadow: 10px 10px 5px #888;
 }
 
 .testimonialentityhead .testimonialentitydate p{
-  font-family: "Droid Serif", "Josefin Sans";
+  font-family: "Open Sans", "Droid Serif", "Josefin Sans";
   font-size: 20px;
   font-weight: 100;
 }
@@ -687,7 +697,7 @@ box-shadow: 10px 10px 5px #888;
 
 .testimonialentityauthorblock h3 {
   padding-bottom: 10px;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
   border-bottom-style: solid;
   border-width: 1px;
@@ -695,14 +705,14 @@ box-shadow: 10px 10px 5px #888;
 }
 
 .testimonialentityauthorblock .testimonialauthorintro {
-  font-family: Tahoma;
+  font-family: "Open Sans", Tahoma;
   font-size: 12px;
 }
 
 .testimonialentitybody{
   padding: 20px;
   text-align: justify;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 17px;
 }
 
@@ -761,7 +771,7 @@ box-shadow: 10px 10px 5px #888;
   border-top-style: solid;
   border-width: 5px;
   border-color: rgb(40, 56, 151);*/
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
   line-height: 1;
   color:#f1f1f1;
@@ -777,14 +787,14 @@ box-shadow: 10px 10px 5px #888;
   float:right;
 }
 .coachingregisterpage1 h3{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   border-bottom: 1px solid #eeeeee;
   padding-bottom: 10px;
   margin-bottom: 15px;
 }
 
 .mynote{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
   line-height: 1;
   padding: 10px;
@@ -793,7 +803,7 @@ box-shadow: 10px 10px 5px #888;
 .coachingregisterpage1 textarea{
   width:450px;
   height:200px;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 20px;
   line-height: 1;
   color: gray;
@@ -818,7 +828,7 @@ box-shadow: 10px 10px 5px #888;
 
 .registerforooc h2{
   padding-bottom: 5px;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 22px;
   border-bottom-style: solid;
   border-width: 1px;
@@ -826,7 +836,7 @@ box-shadow: 10px 10px 5px #888;
 }
 
 .registerforooc p{
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 18px;
 }
 
@@ -839,8 +849,8 @@ box-shadow: 10px 10px 5px #888;
 
 .bottomsec a{
   padding-bottom: 5px;
-  font-family: "Josefin Sans";
-  font-size: 22px;
+  font-family: "Open Sans", "Josefin Sans";
+  font-size: 15px;
   font-weight: 900;
   text-align: center;
   text-transform: capitalize;
@@ -852,7 +862,7 @@ box-shadow: 10px 10px 5px #888;
 
 .registrationh2{
   padding-bottom: 5px;
-  font-family: "Josefin Sans";
+  font-family: "Open Sans", "Josefin Sans";
   font-size: 22px;
   border-bottom-style: solid;
   border-width: 1px;
