@@ -20,7 +20,64 @@
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>28 July 2013</p>
+						<p>Inspiring Goals 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. P.S. Srinivasa Raghavan</h3>
+							<span class="testimonialauthorintro">Director, UNICORN Hands &amp; Needles Pvt. Ltd.</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the simplicity, direct, easy to understand delivery of the course.
+					</p>
+					<p>
+						Welll supported exercises, well explained
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Emotional Intelligence for Success 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. Manoj Kumar</h3>
+							<span class="testimonialauthorintro">Business Entrepreneur</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						We know many things; but this program taught me to do things in a more orderly and organized way.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Emotional Intelligence for Success 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. K. R. Sunil</h3>
+							<span class="testimonialauthorintro">HAL<br/>Bangalore</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the Rapport Building exercises the most.
+					</p>
+					<p>
+						Key take-away includes listening skills, expressing ideas in a more understandable way. Met with a good person who reacted to my situations postively.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<!-- <p>28 July 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>V.J. Antony</h3>
@@ -40,7 +97,7 @@
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>28 July 2013</p>
+						<!-- <p>28 July 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>Ronila Cherian Momin</h3>
@@ -60,7 +117,7 @@
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>24 March 2013</p>
+						<!-- <p>24 March 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>Laila Jacob</h3>
@@ -76,11 +133,81 @@
 			</div>
 		</div>
 
+
+
+
 		<div class="span4">
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>28 July 2013</p>
+						<p>Inspiring Goals 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. S. Krishna</h3>
+							<span class="testimonialauthorintro">Indian Air Force</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the Mindful Meditation Process, Creative Visualization Process and Timeline process. There is confidence about setting and achieving goals.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Emotional Intelligence for Success 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mrs. Chitra Sen</h3>
+							<span class="testimonialauthorintro">Senior Corporate Trainer</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the interactions. Key take away includes how to deal with ups and downs of life in a systematic manner. To look at life with a newer vision.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Inspiring Goals 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mrs. Rama Srinivasan</h3>
+							<span class="testimonialauthorintro">Senior Corporate Trainer</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the Creative Visualization - in a guided manner, the Daily Action Planner, Colourful Charts/Cards and Course Materials.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Inspiring Goals 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. Venkata Kowshik T</h3>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the Visualization exercise the most.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<!-- <p>28 July 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>Prarthana Unkalkar Kaul</h3>
@@ -100,7 +227,7 @@
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>28 July 2013</p>
+						<!-- <p>28 July 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>Sandhya Rani K</h3>
@@ -128,7 +255,78 @@
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>28 July 2013</p>
+						<p>Work Life Balance &amp; Stress Resilience Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Ms. Gomathi G</h3>
+							<span class="testimonialauthorintro">Entrepreneur, Co-founder of Cubs Brain</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						I liked the step by step manner in which the self-realization was brought about.
+					</p>
+					<p>
+						I was filling the questionnaires, one by one, and by the end of the day, I got insights to many things that I had not observed in the past, or analyzed. There was a lot of positivity through out the course.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Inspiring Goals 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mrs. Latha Verghese</h3>
+							<span class="testimonialauthorintro">Gopalan International School<br/>Bangalore</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the attitude of Mr. Suresh; Clarity of explanation, excellent communication.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Inspiring Goals 101 Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. Pramod C</h3>
+							<span class="testimonialauthorintro">Indian Air Force</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Liked the good communication, clarity of ideas and thoughts.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<p>Work Life Balance &amp; Stress Resilience Workshop</p>
+					</div>
+					<div class="testimonialentityauthorblock">
+							<h3>Mr. R. A. Imran</h3>
+							<span class="testimonialauthorintro">Entrepreneur, founder of Cubs Brain</span>
+					</div>
+					<div class="clearAll"></div>
+				</div>
+				<div class="testimonialentitybody">
+					<p>
+						Overall it was a great course; Liked the interactions; I feel this course is very suitable for youth.
+					</p>
+				</div>
+			</div>
+			<div class="testimonialentity">
+				<div class="testimonialentityhead">
+					<div class="testimonialentitydate">
+						<!-- <p>28 July 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>Prateek Kaul</h3>
@@ -145,7 +343,7 @@
 			<div class="testimonialentity">
 				<div class="testimonialentityhead">
 					<div class="testimonialentitydate">
-						<p>24 March 2013</p>
+						<!-- <p>24 March 2013</p> -->
 					</div>
 					<div class="testimonialentityauthorblock">
 							<h3>S. S. Lakshmi</h3>
